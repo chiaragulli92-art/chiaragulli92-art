@@ -24,7 +24,7 @@ e supportare decisioni basate su evidenze.
 
 ### Keep in touch
 
-<a href=https://www.linkedin.com/in/chiara-gulli-573495382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>
+<a href="https://www.linkedin.com/in/chiara-gulli-573495382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img align="left" alt="Chiara's LinkedIn" width="18px"
        src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
 </a>
